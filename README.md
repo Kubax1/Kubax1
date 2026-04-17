@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**Kubax1/Kubax1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack developer (Node.js + React)  
+🎓 Computer Science student at University of Silesia 
+🚀 Building web apps 
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Backend: Node.js
+- Frontend: React
+- Database: PostgreSQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: jakubkubisa1@gmail.com
