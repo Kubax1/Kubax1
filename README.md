@@ -8,6 +8,18 @@
 - Backend: Node.js
 - Frontend: React
 - Database: PostgreSQL, MySQL
+- 
+## 🚀 Projects
+### 📚 Wordtsy - Language Learning App
+App for learning vocabulary using short-form videos
+🔗 https:/www-link.com
 
-## 📫 Contact
-- Email: jakubkubisa1@gmail.com
+### 🌐 Portfolio Website
+My personal portfolio with projects and contact  
+🔗 https://www.com
+
+
+## 🌍 Links
+- 🌐 Portfolio: https://your-portfolio-link.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jakub-kubisa-8150012b8/
+- 📧 Email: jakubkubisa1@gmail.com
