@@ -8,7 +8,7 @@
 - Backend: Node.js
 - Frontend: React
 - Database: PostgreSQL, MySQL
-- 
+
 ## 🚀 Projects
 ### 📚 Wordtsy - Language Learning App
 App for learning vocabulary using short-form videos
