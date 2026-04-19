@@ -20,6 +20,6 @@ My personal portfolio with projects and contact
 
 
 ## 🌍 Links
-- 🌐 Portfolio: https://your-portfolio-link.com
+- 🌐 Portfolio: https://portfolio-kubax1s-projects.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/jakub-kubisa-8150012b8/
 - 📧 Email: jakubkubisa1@gmail.com
