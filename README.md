@@ -16,7 +16,7 @@ App for learning vocabulary using short-form videos
 
 ### 🌐 Portfolio Website
 My personal portfolio with projects and contact  
-🔗 https://www.com
+🔗 https://portfolio-kubax1s-projects.vercel.app
 
 
 ## 🌍 Links
