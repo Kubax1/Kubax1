@@ -10,14 +10,18 @@
 - Database: PostgreSQL, MySQL
 
 ## 🚀 Projects
-### 📚 Wordtsy - Language Learning App
-App for learning vocabulary using short-form videos
-🔗 https:/www-link.com
+### 📚 Wordtsy 
+Wordtsy is a modern web application designed to help users learn foreign language vocabulary through short-form video content.
 
-### 🌐 Portfolio Website
+Try it out 👉 https://wordtsy.com
+
+### 🔧IntelligentInstal
+A modern website for an installation company specializing in heating systems, plumbing, and renewable energy solutions.
+🔗 https://intelligent-instal.vercel.app
+
+### 💼 Portfolio Website
 My personal portfolio with projects and contact  
 🔗 https://portfolio-kubax1s-projects.vercel.app
-
 
 ## 🌍 Links
 - 🌐 Portfolio: https://portfolio-kubax1s-projects.vercel.app
