@@ -12,15 +12,17 @@
 ## 🚀 Projects
 ### 📚 Wordtsy 
 Wordtsy is a modern web application designed to help users learn foreign language vocabulary through short-form video content.
+  
+🔗 https://wordtsy.com
 
-https://wordtsy.com
-
-### 🔧IntelligentInstal
+### 🔧 IntelligentInstal
 A modern website for an installation company specializing in heating systems, plumbing, and renewable energy solutions.
+  
 🔗 https://intelligent-instal.vercel.app
 
 ### 💼 Portfolio Website
-My personal portfolio with projects and contact  
+My personal portfolio with projects  
+  
 🔗 https://portfolio-kubax1s-projects.vercel.app
 
 ## 🌍 Links
