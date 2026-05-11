@@ -23,9 +23,9 @@ A modern website for an installation company specializing in heating systems, pl
 ### 💼 Portfolio Website
 My personal portfolio with projects  
   
-🔗 https://portfolio-kubax1s-projects.vercel.app
+🔗 https://portfolio-ruby-one-g953flpk66.vercel.app
 
 ## 🌍 Links
-- 🌐 Portfolio: https://portfolio-kubax1s-projects.vercel.app
+- 🌐 Portfolio: https://portfolio-ruby-one-g953flpk66.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/jakub-kubisa-8150012b8/
 - 📧 Email: jakubkubisa1@gmail.com
